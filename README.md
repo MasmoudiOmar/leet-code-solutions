@@ -9,3 +9,4 @@
   - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) , this is the [solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/Merge%20arrays.cc)
   - [Same Tree](https://leetcode.com/problems/same-tree/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/Same%20Tree.cc)
   - [Symmetric tree](https://leetcode.com/problems/same-tree/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/Symmetric%20Tree.cc)
+  - [maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/maximum-depth-of-binary-tree.cc)
