@@ -8,3 +8,4 @@
   - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) easy, this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/Climbing%20Stairs)
   - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) , this is the [solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/Merge%20arrays.cc)
   - [Same Tree](https://leetcode.com/problems/same-tree/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/Same%20Tree.cc)
+  - [Symmetric tree](https://leetcode.com/problems/same-tree/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/Symmetric%20Tree.cc)
