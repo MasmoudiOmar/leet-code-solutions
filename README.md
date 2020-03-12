@@ -10,3 +10,8 @@
   - [Same Tree](https://leetcode.com/problems/same-tree/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/Same%20Tree.cc)
   - [Symmetric tree](https://leetcode.com/problems/same-tree/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/Symmetric%20Tree.cc)
   - [maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/maximum-depth-of-binary-tree.cc)
+  - [binary tree traversal level order 2](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/binary%20tree%20traversal%20level%20order.cc)
+  
+  
+  ## Medium Problems
+  - [binary tree traversal level order](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/)  , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/binary%20tree%20traversal%20level%20order%201.cc)
