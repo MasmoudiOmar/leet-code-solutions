@@ -1,4 +1,4 @@
-  #*** Easy Problems ***
+  # *** Easy Problems ***
   
   - [Count and say](https://leetcode.com/problems/count-and-say), this is the [Solution](https://leetcode.com/problems/count-and-say/submissions/)
   - [Length of the last word](https://leetcode.com/problems/length-of-last-word/), this is the [solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Length%20of%20the%20last%20word%20-%20easy.cpp)
