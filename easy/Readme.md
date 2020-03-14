@@ -23,3 +23,4 @@
   21. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Minimum%20Depth%20of%20Binary%20Tree.cc)
   22. [Path Sum](https://leetcode.com/problems/path-sum/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Path%20Sum.cc)
   23. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Pascal%20Triangle.cc)
+  24. [Pascal Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Pascal%20Triangle%20II.cc)
