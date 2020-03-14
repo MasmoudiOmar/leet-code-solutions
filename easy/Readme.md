@@ -22,3 +22,4 @@
   - [convert sorted array to binary tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Convert%20sorted%20array%20to%20binary%20tree.cc)
   - [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Minimum%20Depth%20of%20Binary%20Tree.cc)
   - [Path Sum](https://leetcode.com/problems/path-sum/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Path%20Sum.cc)
+  - [Pascal Triangle](https://leetcode.com/problems/pascals-triangle) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Pascal%20Triangle.cc)
