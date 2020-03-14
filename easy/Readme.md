@@ -19,3 +19,4 @@
   - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/LongestCommonPrefix-easy.cpp)
   - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/ValidParentheses-easy.cpp)
   - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Balanced%20Binary%20Tree.cc)
+  - [convert sorted array to binary tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Convert%20sorted%20array%20to%20binary%20tree.cc)
