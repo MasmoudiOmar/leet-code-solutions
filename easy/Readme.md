@@ -25,3 +25,4 @@
   23. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Pascal%20Triangle.cc)
   24. [Pascal Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Pascal%20Triangle%20II.cc)
   25. [Best time to sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) ,this is the [solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Best%20Time%20To%20sell%20Stocks.cc) 
+  26. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Valid%20Palindrome.cc)
