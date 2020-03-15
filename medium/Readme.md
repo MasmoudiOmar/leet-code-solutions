@@ -9,4 +9,5 @@
   7. [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/Generate%20Parentheses.cc).
   8. [Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements) , this is the [solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/Top%20k%20frequent%20elements.cc).
   9. [3sum Closest](https://leetcode.com/problems/3sum-closest/), this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/3sum%20Closest.cc).
+  10. [AtoI](https://leetcode.com/problems/string-to-integer-atoi), this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/String%20To%20Integer%20ATOI.cc).
   
