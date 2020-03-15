@@ -11,3 +11,4 @@
   9. [3sum Closest](https://leetcode.com/problems/3sum-closest/), this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/3sum%20Closest.cc).
   10. [AtoI](https://leetcode.com/problems/string-to-integer-atoi), this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/String%20To%20Integer%20ATOI.cc).
   11. [Container with most water](https://leetcode.com/problems/container-with-most-water) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/Container%20with%20most%20water.cc)
+  12. [lowest common ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/lowest%20common%20ancestor.cc)
