@@ -6,4 +6,5 @@
   - [Integer to Roman](https://leetcode.com/problems/integer-to-roman) , this is the [solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/Interger%20To%20Roman.cpp).
   - [3 Sum](https://leetcode.com/problems/3sum/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/3sum).
   - [permutations](https://leetcode.com/problems/permutations/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/Permutations.cc)
+  - [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/Generate%20Parentheses.cc)
   
