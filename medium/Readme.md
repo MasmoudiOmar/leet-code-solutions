@@ -13,3 +13,4 @@
   11. [Container with most water](https://leetcode.com/problems/container-with-most-water) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/Container%20with%20most%20water.cc)
   12. [lowest common ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/lowest%20common%20ancestor.cc)
   13. [Permutations II](https://leetcode.com/problems/permutations-ii/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/Permutations%20II.cc)
+  14. [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion), this is the [solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/ZigZag%20Conversion.cc).
