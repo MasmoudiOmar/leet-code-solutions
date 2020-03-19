@@ -27,7 +27,8 @@
   25. [Best time to sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) ,this is the [solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Best%20Time%20To%20sell%20Stocks.cc).
   26. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Valid%20Palindrome.cc).
 
-27. [Implement strSTR](https://leetcode.com/problems/implement-strstr),this the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/implement%20strSTR%20-easy%20.cpp).
+  27. [Implement strSTR](https://leetcode.com/problems/implement-strstr),this the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/implement%20strSTR%20-easy%20.cpp).
 
-28. [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array), this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Remove-duplicates-easy.cpp).
-29. [Search Insert](https://leetcode.com/problems/search-insert-position), this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/searchInsert.cpp).
+  28. [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array), this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Remove-duplicates-easy.cpp).
+  29. [Search Insert](https://leetcode.com/problems/search-insert-position), this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/searchInsert.cpp).
+  30. [MinStack](https://leetcode.com/problems/min-stack) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/MinStack.cc).
