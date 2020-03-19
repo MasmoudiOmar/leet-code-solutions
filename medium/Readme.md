@@ -20,4 +20,5 @@
   18. [Rotate Image](https://leetcode.com/problems/rotate-image) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/Rotate%20Image.cc).
   19. [Combination Sum](https://leetcode.com/problems/combination-sum) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/Combination%20Sum.cc).
   21. [Multiply String](https://leetcode.com/problems/multiply-strings) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/Multiply%20String.cc)
+  22. [MyPow](https://leetcode.com/problems/powx-n) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/medium/myPow.cc).
   
