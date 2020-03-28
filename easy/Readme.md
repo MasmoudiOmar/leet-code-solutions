@@ -33,3 +33,5 @@
   29. [Search Insert](https://leetcode.com/problems/search-insert-position), this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/searchInsert.cpp).
   30. [MinStack](https://leetcode.com/problems/min-stack) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/MinStack.cc).
   31. [First Bad Version](https://leetcode.com/problems/first-bad-version) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/First%20Bad%20Version.cc)
+  32. [Best Time to sell Stocks 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Best%20time%20to%20sell%20stocks%20II.cc)
+  
