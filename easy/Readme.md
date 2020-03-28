@@ -36,3 +36,4 @@
   32. [Best Time to sell Stocks 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Best%20time%20to%20sell%20stocks%20II.cc)
   33. [Single Number](https://leetcode.com/problems/single-number) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Single%20Number.cc).
   34. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) , this is the [solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Excel%20Sheet%20Column%20Title.cc)
+  35. [Majority Element](https://leetcode.com/problems/majority-element) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/MajorityElement.cc)
