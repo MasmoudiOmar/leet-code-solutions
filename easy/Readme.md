@@ -39,3 +39,4 @@
   35. [Majority Element](https://leetcode.com/problems/majority-element) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/MajorityElement.cc).
   36. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Excel%20Sheet%20Column%20Number.cc).
   37. [Factorial trailing zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Factorial%20trailing%20zeros.cc)
+  38. [Rotate Array](https://leetcode.com/problems/rotate-array/) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Rotate%20Array.cc)
