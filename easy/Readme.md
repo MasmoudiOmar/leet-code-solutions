@@ -32,3 +32,4 @@
   28. [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array), this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Remove-duplicates-easy.cpp).
   29. [Search Insert](https://leetcode.com/problems/search-insert-position), this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/searchInsert.cpp).
   30. [MinStack](https://leetcode.com/problems/min-stack) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/MinStack.cc).
+  31. [First Bad Version](https://leetcode.com/problems/first-bad-version) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/First%20Bad%20Version.cc)
