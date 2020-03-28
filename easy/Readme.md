@@ -34,4 +34,5 @@
   30. [MinStack](https://leetcode.com/problems/min-stack) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/MinStack.cc).
   31. [First Bad Version](https://leetcode.com/problems/first-bad-version) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/First%20Bad%20Version.cc)
   32. [Best Time to sell Stocks 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Best%20time%20to%20sell%20stocks%20II.cc)
-  33. [Single Number](https://leetcode.com/problems/single-number) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Single%20Number.cc)
+  33. [Single Number](https://leetcode.com/problems/single-number) , this is the [Solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Single%20Number.cc).
+  34. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) , this is the [solution](https://github.com/MasmoudiOmar/leet-code-solutions/blob/master/easy/Excel%20Sheet%20Column%20Title.cc)
